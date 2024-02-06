@@ -1,9 +1,9 @@
 {
   "id": "io.supernova.documentation-main",
-  "name": "Default Documentation",
+  "name": "Dometic Documentation",
   "description": "Default customizable exporter for design system documentation",
-  "author": "Supernova",
-  "organization": "Supernova",
+  "author": "Dometic",
+  "organization": "Dometic",
   "source_dir": "src",
   "assets_dir": "assets",
   "version": "4.9.2",
